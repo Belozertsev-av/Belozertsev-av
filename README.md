@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Andrew</a> 
+<h1 align="center">Hi there, I'm <span style="color:#41b883">Andrew</span>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am college student. I study and work freelance in the field of web development</h3>
 <h4 align="center">Here is my stack:</h4>
@@ -34,8 +34,10 @@
 </div>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belozertsev-av&layout=compact)](https://github.com/belozertsev-av/github-readme-stats)
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Belozertsev-av&theme=sea&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=belozertsev-av&theme=vue)
 
 </div>
