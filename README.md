@@ -34,10 +34,10 @@
 </div>
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belozertsev-av&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belozertsev-av&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belozertsev-av&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=belozertsev-av&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=belozertsev-av&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=belozertsev-av&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=belozertsev-av&theme=vue)
 
 </div>
