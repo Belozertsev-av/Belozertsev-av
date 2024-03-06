@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <span style="color:#41b883">Andrew</span>
 🖐</h1>
 <h3 align="center">I am college student. I study and work freelance in the field of web development</h3>
-<h4 align="center">Here is my <a href="https://belweb.vercel.app/" target="_blank">web-site</a></h4>
-<h4 align="center">And here is my stack:</h4>
+
+<h4 align="center">Here is my stack:</h4>
 
 <div align="center">
   
